@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="onCampusText">On Campus</string>
+    <string name="nearCampusText">Near Campus</string>
+    <string name="add_new_todo">Add New Item</string>
+    <string name="add_new_todo_btn">Add Item</string>
+    <string name="add_item_text">Add Item:</string>
+    <string name="save_item_button">Save Item</string>
+
+</resources>
